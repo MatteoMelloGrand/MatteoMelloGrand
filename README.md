@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**MatteoMelloGrand/MatteoMelloGrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, my name is Matteo Mello Grand and I am a student in the bachelor degree **Mathematical and Computing Sciences for Artificial Intelligence** at **Bocconi University**.
+My interests lies in:
+- machine learning
+- probability
+- statistics
+- Theoretical economics
+- Physics
+- Theoretical computer science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
